@@ -1,0 +1,5 @@
+Credentials cache: API:52CBD2FE-B933-44F0-B47F-EC1312569D5D
+        Principal: hemin@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jun 30 13:53:44 2020  Jun 30 23:53:37 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
