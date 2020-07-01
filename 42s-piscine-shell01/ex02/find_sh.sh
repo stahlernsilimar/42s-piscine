@@ -1,3 +1,4 @@
 #!/bin/bash
 
-find . -name "*.sh"|sed -e 's|.sh||g' -e 's|^./||'
+find . -name "*.sh"|sort|sed -e 's|^./||' -e 's|.sh$||g'
+
