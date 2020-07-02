@@ -1,1 +1,1 @@
-ls -mtAp
+ls -Upmt

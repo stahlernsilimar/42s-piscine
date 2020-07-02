@@ -1,3 +1,3 @@
 #!/bin/bash
 
-find .|wc -l|sed 's|      ||'
+find . | wc -l | sed 's|^ *||'
